@@ -1,0 +1,344 @@
+{
+    "b0_c0": {
+        "CDS": {
+            "param": {
+                "Lr": 287.75696639397074
+            },
+            "block_name": "NeXon_First_Nsyn"
+        },
+        "TFw": -0.2762547731399536
+    },
+    "b0_c1": {
+        "CDS": {
+            "param": {
+                "Lr": 408.3527538376311
+            },
+            "block_name": "NeXon_First_Psyn"
+        },
+        "TFw": 0.4626219868659973
+    },
+    "b0_c2": {
+        "CDS": {
+            "param": {
+                "Lr": 131.45911134620928
+            },
+            "block_name": "NeXon_First_Psyn"
+        },
+        "TFw": 0.800000011920929
+    },
+    "b0_c3": {
+        "CDS": {
+            "param": {
+                "Lr": 131.45911134620928
+            },
+            "block_name": "NeXon_First_Psyn"
+        },
+        "TFw": 0.800000011920929
+    },
+    "b1_c0": {
+        "CDS": {
+            "param": {
+                "Lr": 121.52953217200002
+            },
+            "block_name": "NeXon_First_Nsyn"
+        },
+        "TFw": -0.4605724513530731
+    },
+    "b1_c1": {
+        "CDS": {
+            "param": {
+                "Lr": 121.52953217200002
+            },
+            "block_name": "NeXon_First_Nsyn"
+        },
+        "TFw": -0.4605724513530731
+    },
+    "b1_c2": {
+        "CDS": {
+            "param": {
+                "Lr": 123.98319658939181
+            },
+            "block_name": "NeXon_First_Nsyn"
+        },
+        "TFw": -0.4552888870239258
+    },
+    "b1_c3": {
+        "CDS": {
+            "param": {
+                "Lr": 131.57761927479442
+            },
+            "block_name": "NeXon_First_Psyn"
+        },
+        "TFw": 0.7995092868804932
+    },
+    "a1_c0": {
+        "CDS": {
+            "param": {
+                "W": 0
+            },
+            "block_name": "NeXon_Hidden_Nosyn"
+        },
+        "TFw": -0.0426230097194883,
+        "TFb": -0.04060037061572075
+    },
+    "a1_c1": {
+        "CDS": {
+            "param": {
+                "W": 0
+            },
+            "block_name": "NeXon_Hidden_Nosyn"
+        },
+        "TFw": -0.07678054918393092,
+        "TFb": -0.07313699275255203
+    },
+    "a1_c2": {
+        "CDS": {
+            "param": {
+                "W": 319.19752559974836
+            },
+            "block_name": "NeXon_Hidden_Psyn"
+        },
+        "TFw": 0.3478568665274116,
+        "TFb": 0.33134961128234863
+    },
+    "a0_c3": {
+        "CDS": {
+            "param": {
+                "W": 933.2447872078919
+            },
+            "block_name": "NeXon_Hidden_Nsyn"
+        },
+        "TFw": -0.7804031687175147,
+        "TFb": -0.20902042090892792
+    },
+    "c0_d0": {
+        "CDS": {
+            "param": {
+                "W": 581.346413425199
+            },
+            "block_name": "NeXon_Hidden_Nsyn"
+        },
+        "TFw": -0.6630217432975769
+    },
+    "c0_d1": {
+        "CDS": {
+            "param": {
+                "W": 824.3985107386055
+            },
+            "block_name": "NeXon_Hidden_Psyn"
+        },
+        "TFw": 0.799989640712738
+    },
+    "c0_d2": {
+        "CDS": {
+            "param": {
+                "W": 484.8264811760108
+            },
+            "block_name": "NeXon_Hidden_Psyn"
+        },
+        "TFw": 0.5339983701705933
+    },
+    "c0_d3": {
+        "CDS": {
+            "param": {
+                "W": 581.3465471608997
+            },
+            "block_name": "NeXon_Hidden_Nsyn"
+        },
+        "TFw": -0.6630218029022217
+    },
+    "c1_d0": {
+        "CDS": {
+            "param": {
+                "W": 581.4310683859294
+            },
+            "block_name": "NeXon_Hidden_Nsyn"
+        },
+        "TFw": -0.6630594730377197
+    },
+    "c1_d1": {
+        "CDS": {
+            "param": {
+                "W": 692.6641920524762
+            },
+            "block_name": "NeXon_Hidden_Psyn"
+        },
+        "TFw": 0.7174232006072998
+    },
+    "c1_d2": {
+        "CDS": {
+            "param": {
+                "W": 135.8532770882566
+            },
+            "block_name": "NeXon_Hidden_Psyn"
+        },
+        "TFw": 0.07799312472343445
+    },
+    "c1_d3": {
+        "CDS": {
+            "param": {
+                "W": 581.4310683859294
+            },
+            "block_name": "NeXon_Hidden_Nsyn"
+        },
+        "TFw": -0.6630594730377197
+    },
+    "c2_d0": {
+        "CDS": {
+            "param": {
+                "W": 824.4173466889292
+            },
+            "block_name": "NeXon_Hidden_Psyn"
+        },
+        "TFw": 0.800000011920929
+    },
+    "c2_d1": {
+        "CDS": {
+            "param": {
+                "W": 270.7262853621851
+            },
+            "block_name": "NeXon_Hidden_Nsyn"
+        },
+        "TFw": -0.4913504719734192
+    },
+    "c2_d2": {
+        "CDS": {
+            "param": {
+                "W": 824.4173466889292
+            },
+            "block_name": "NeXon_Hidden_Psyn"
+        },
+        "TFw": 0.800000011920929
+    },
+    "c2_d3": {
+        "CDS": {
+            "param": {
+                "W": 824.4173466889292
+            },
+            "block_name": "NeXon_Hidden_Psyn"
+        },
+        "TFw": 0.800000011920929
+    },
+    "c3_d0": {
+        "CDS": {
+            "param": {
+                "W": 577.5351065967734
+            },
+            "block_name": "NeXon_Hidden_Nsyn"
+        },
+        "TFw": -0.6613229513168335
+    },
+    "c3_d1": {
+        "CDS": {
+            "param": {
+                "W": 425.1760671663227
+            },
+            "block_name": "NeXon_Hidden_Psyn"
+        },
+        "TFw": 0.46933817863464355
+    },
+    "c3_d2": {
+        "CDS": {
+            "param": {
+                "W": 577.7298070037923
+            },
+            "block_name": "NeXon_Hidden_Nsyn"
+        },
+        "TFw": -0.6614097356796265
+    },
+    "c3_d3": {
+        "CDS": {
+            "param": {
+                "W": 577.5391182889553
+            },
+            "block_name": "NeXon_Hidden_Nsyn"
+        },
+        "TFw": -0.6613247394561768
+    },
+    "a1_d0": {
+        "CDS": {
+            "param": {
+                "W": 274.24540658080787
+            },
+            "block_name": "NeXon_Hidden_Psyn"
+        },
+        "TFw": 0.2947863185297964,
+        "TFb": 0.28079748153686523
+    },
+    "a1_d1": {
+        "CDS": {
+            "param": {
+                "W": 270.7262853621851
+            },
+            "block_name": "NeXon_Hidden_Nsyn"
+        },
+        "TFw": -0.44785028176623404,
+        "TFb": -0.42659792304039
+    },
+    "a1_d2": {
+        "CDS": {
+            "param": {
+                "W": 270.7262853621851
+            },
+            "block_name": "NeXon_Hidden_Nsyn"
+        },
+        "TFw": -0.40300086802763835,
+        "TFb": -0.3838768005371094
+    },
+    "a1_d3": {
+        "CDS": {
+            "param": {
+                "W": 274.245826386497
+            },
+            "block_name": "NeXon_Hidden_Psyn"
+        },
+        "TFw": 0.2947868191221437,
+        "TFb": 0.28079795837402344
+    },
+    "d0_e0": {
+        "CDS": {
+            "param": {
+                "W": 824.4173466889292
+            },
+            "block_name": "NeXon_Hidden_Psyn"
+        },
+        "TFw": 0.800000011920929
+    },
+    "d1_e0": {
+        "CDS": {
+            "param": {
+                "W": 581.4310683859294
+            },
+            "block_name": "NeXon_Hidden_Nsyn"
+        },
+        "TFw": -0.6630594730377197
+    },
+    "d2_e0": {
+        "CDS": {
+            "param": {
+                "W": 510.6438228964695
+            },
+            "block_name": "NeXon_Hidden_Psyn"
+        },
+        "TFw": 0.5606143474578857
+    },
+    "d3_e0": {
+        "CDS": {
+            "param": {
+                "W": 824.4173466889292
+            },
+            "block_name": "NeXon_Hidden_Psyn"
+        },
+        "TFw": 0.800000011920929
+    },
+    "a1_e0": {
+        "CDS": {
+            "param": {
+                "W": 332.70639386927724
+            },
+            "block_name": "NeXon_Hidden_Nsyn"
+        },
+        "TFw": -0.5676371184182055,
+        "TFb": -0.540700376033783
+    }
+}

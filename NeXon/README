@@ -1,0 +1,18 @@
+
+This repository contain the code used to synthesised an energy-efficient and robust-trained
+analog neural network.
+
+In this repo, you will found : 
+    In folder "6 - PLS CADENCE" :
+        - "CDS_Synthesis" : Automatic cadence schematic network evaluation
+        - "Extractor_Utils" : to generate Sigmoid and polynomial model for activation function and synaptic gains
+        - "First_extractor" : generate the model for the "IN" neuron
+        - "Hidden_extractor" : generate the model for the "HN" neuron
+        - "FullExtractor" (the one runned) : generate model for "HN" and "IN" neuron
+        - "Network_Reader" : used to see the Cadence PLS results
+        - "Network_visualizer" : used to visualize the tensorflow networks with physical sizing
+        - "TF_Synthetiser" : the paper proposal framework
+        - "Utils" : utils functions used by the code above
+
+    In folder "libs" :
+        - Personnal libs used to automaticaly run Cadence from python.
